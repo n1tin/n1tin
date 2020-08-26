@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[<img src="https://img.shields.io/badge/twitter-_n1tin-blue?style=flat-square&logo=twitter">](https://twitter.com/_n1tin)
+[<img src="https://img.shields.io/badge/blog-hashnode-2962FF?style=flat-square&logo=hashnode">](nitin.hashnode.dev)
+
+
 -->
+
